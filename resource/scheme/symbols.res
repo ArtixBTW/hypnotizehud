@@ -7,7 +7,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"10"
+				"tall"										"7.5"
 				"antialias"									"1"
 			}
 		}
@@ -16,7 +16,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"12"
+				"tall"										"9.0"
 				"antialias"									"1"
 			}
 		}
@@ -25,7 +25,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"14"
+				"tall"										"10.5"
 				"antialias"									"1"
 			}
 		}
@@ -34,7 +34,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"14"
+				"tall"										"10.5"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -44,7 +44,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"16"
+				"tall"										"12.0"
 				"antialias"									"1"
 			}
 		}
@@ -53,7 +53,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"16"
+				"tall"										"12.0"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -63,7 +63,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"18"
+				"tall"										"13.5"
 				"antialias"									"1"
 			}
 		}
@@ -72,7 +72,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"18"
+				"tall"										"13.5"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -82,7 +82,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"20"
+				"tall"										"15.0"
 				"antialias"									"1"
 			}
 		}
@@ -91,7 +91,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"20"
+				"tall"										"15.0"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -101,7 +101,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"22"
+				"tall"										"16.5"
 				"antialias"									"1"
 			}
 		}
@@ -110,7 +110,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"22"
+				"tall"										"16.5"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -120,7 +120,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"24"
+				"tall"										"18.0"
 				"antialias"									"1"
 			}
 		}
@@ -129,7 +129,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"24"
+				"tall"										"18.0"
 				"antialias"									"1"
 				"blur"										"1"
 			}
@@ -139,7 +139,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"26"
+				"tall"										"19.5"
 				"antialias"									"1"
 			}
 		}
@@ -149,7 +149,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"30"
+				"tall"										"22.5"
 				"antialias"									"1"
 			}
 		}
@@ -159,7 +159,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"34"
+				"tall"										"25.5"
 				"antialias"									"1"
 			}
 		}
@@ -168,7 +168,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"46"
+				"tall"										"34.5"
 				"antialias"									"1"
 			}
 		}
@@ -177,7 +177,7 @@
 			"1"
 			{
 				"name"										"Hypnotize Icons V8"
-				"tall"										"50"
+				"tall"										"37.5"
 				"antialias"									"1"
 			}
 		}
@@ -187,7 +187,7 @@
 			"1"
 			{
 				"name"										"TF2 Class Icons V3"
-				"tall"										"18"
+				"tall"										"13.5"
 				"antialias"									"1"
 			}
 		}
@@ -196,7 +196,7 @@
 			"1"
 			{
 				"name"										"TF2 Class Icons V3"
-				"tall"										"28"
+				"tall"										"21.0"
 				"antialias"									"1"
 			}
 		}
@@ -205,7 +205,7 @@
 			"1"
 			{
 				"name"										"TF2 Class Icons V3"
-				"tall"										"48"
+				"tall"										"36.0"
 				"antialias"									"1"
 			}
 		}
@@ -214,7 +214,7 @@
 			"1"
 			{
 				"name"										"TF2 Class Icons V3"
-				"tall"										"56"
+				"tall"										"42.0"
 				"antialias"									"1"
 			}
 		}
@@ -224,7 +224,7 @@
 			"1"
 			{
 				"name"										"Blocks"
-				"tall"										"64"
+				"tall"										"48.0"
 			}
 		}
 
@@ -233,7 +233,7 @@
 			"1"
 			{
 				"name"										"ReadyUp Symbols"
-				"tall"										"24"
+				"tall"										"18.0"
 				"antialias"									"1"
 			}
 		}
@@ -242,7 +242,7 @@
 			"1"
 			{
 				"name"										"ReadyUp Symbols"
-				"tall"										"24"
+				"tall"										"18.0"
 				"antialias"									"1"
 				"blur"										"2"
 			}
@@ -253,25 +253,25 @@
 	{
 		"30"
 		{
-			"font"	"resource/scheme/fonts/Hypnotize_Icons.ttf"			[$WINDOWS]
-			"font"	"resource/scheme/fonts/Hypnotize_Icons_Linux.ttf"	[$POSIX]
+			"font"	"resource/scheme/fonts/hypnotize_icons.ttf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/hypnotize_icons_linux.ttf"	[$POSIX]
 			"name"	"Hypnotize Icons V8"
 		}
 		"31"
 		{
-			"font"	"resource/scheme/fonts/TF2_Class_Icons.ttf"			[$WINDOWS]
-			"font"	"resource/scheme/fonts/TF2_Class_Icons_Linux.ttf"	[$POSIX]
+			"font"	"resource/scheme/fonts/tf2_class_icons.ttf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/tf2_class_icons_linux.ttf"	[$POSIX]
 			"name"	"TF2 Class Icons V3"
 		}
 		"32"
 		{
-			"font"	"resource/scheme/fonts/Readyup_Symbols.otf"			[$WINDOWS]
-			"font"	"resource/scheme/fonts/Readyup_Symbols_Linux.otf"	[$POSIX]
+			"font"	"resource/scheme/fonts/readyup_symbols.otf"			[$WINDOWS]
+			"font"	"resource/scheme/fonts/readyup_symbols_linux.otf"	[$POSIX]
 			"name"	"ReadyUp Symbols"
 		}
 		"33"
 		{
-			"font"	"resource/scheme/fonts/Blocks.ttf"
+			"font"	"resource/scheme/fonts/blocks.ttf"
 			"name"	"Blocks"
 		}
 	}
