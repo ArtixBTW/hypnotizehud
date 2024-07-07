@@ -11,9 +11,9 @@
 
 	"CustomCrosshair"
 	{
-		"visible"	"0"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
+		"visible"	"1"																																																																			"ControlName" "CExLabel" "fieldName" "CustomCrosshair" "enabled" "1" "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center"
 
-		"labelText"	"?"
+		"labelText"	":"
 
 		"font"		"Size:18 | Outline:OFF"
 
